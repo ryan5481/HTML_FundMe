@@ -1,4 +1,4 @@
-This is a basic fund and withdraw app that allows users to:
+This is a minimalistisc fund and withdraw front end app that allows users to:
 
 > Conncet their wallets to an Ethereum wallet.
 > Fund the contract with ETH.
